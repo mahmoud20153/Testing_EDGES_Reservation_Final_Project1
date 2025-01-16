@@ -1,0 +1,28 @@
+﻿  Tests.c
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1215,2): warning C4013: 'Customer_Runner' undefined; assuming extern returning int
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1363,39): warning C4013: 'AddStudentToCourse' undefined; assuming extern returning int
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1436,2): warning C4013: 'ShowStudentCourses' undefined; assuming extern returning int
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1540,85): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1540,107): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1541,87): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1541,109): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1577,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1577,110): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1582,73): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1582,100): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1587,88): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1587,123): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1592,58): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1592,81): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1602,69): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1602,97): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1610,63): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1610,89): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1616,75): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1616,106): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1624,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1624,109): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1631,68): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+C:\Users\Esraa Ali\Desktop\Testing\Final_Project\Test\Tests.c(1631,91): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+  Final_Project.vcxproj -> C:\Users\Esraa Ali\Desktop\Testing\Final_Project\x64\Debug\Final_Project.exe
